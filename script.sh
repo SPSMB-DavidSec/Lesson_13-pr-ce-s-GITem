@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function pozdrav() {
-    echo "Hello World"
+    echo "Ahoj World"
 }
 
 echo "začátek"
