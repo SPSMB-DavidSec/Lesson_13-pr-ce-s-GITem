@@ -1,9 +1,10 @@
 #!/bin/bash
 
-function foo() {
-    # todo
+function pozdrav() {
+    echo "Ahoj World"
 }
 
 echo "začátek"
-foo
-echo "konec"
+pozdrav
+#echo "konec"
+echo "End"
